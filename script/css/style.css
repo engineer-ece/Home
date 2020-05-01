@@ -1,0 +1,72 @@
+body{
+color:rgb(0,255,0);
+font-family:arial;
+font-size: 1.5vw;
+
+}
+
+
+
+.main{
+font-size: 5vw;
+height:5vw;
+animation-name:title;
+animation-duration:60s;
+animation-iteration-count:infinite;
+}
+
+.header{
+ color:black;
+}
+.botlogo{
+width:5vw;height:5vw;
+}
+
+.math_id{
+font-size: 1vw;
+transform : translate(75vw,-6.5vw);
+}
+
+
+@keyframes title{
+ 0% {color:#0000ff;}
+ 100% {color:tomato;}
+}
+
+.y{
+width:100%;height:1vw;
+background-color:#00ff00;
+transform:translate(0,0.5vw);
+color:white;
+font-size:2vw;
+
+
+}
+
+
+
+
+a{
+padding:2vw;
+border: 3vw solid rgb(0,255,0);
+text-align:center;
+text-decoration:none;
+font-size:3vw;
+margin:1cm;
+}
+
+a:hover{
+border: 3vw solid orange;
+box-shadow:0vw 0vw 2vw black;
+color:rgb(0,255,0);
+}
+
+a:active{
+border: 3vw solid blue;
+box-shadow:0vw 0vw 2vw black;
+color:rgb(255,0,0);
+}
+
+
+
+
