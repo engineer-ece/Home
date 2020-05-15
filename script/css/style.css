@@ -19,12 +19,29 @@ animation-iteration-count:infinite;
  color:black;
 }
 .botlogo{
-width:5vw;height:5vw;
+width:15vw;height:15vw;
+display:inline;
+}
+.donate{
+display:inline;
+transform : translate(15vw,-3rem);
+border : 1rem solid rgb(0,255,0);
+
+animation-name:don;
+animation-duration:60s;
+animation-iteration-count:infinite;
+box-shadow:0vw 0vw 2vw purple
+
+
 }
 
+@keyframes don{
+ 0% {transform : translate(15vw,-3rem);border : 1rem solid rgb(0,255,0);}
+ 100% {transform : translate(50vw,-3rem);border : 1rem solid orange;}
+
+}
 .math_id{
 font-size: 1vw;
-transform : translate(75vw,-6.5vw);
 }
 
 
@@ -47,12 +64,14 @@ font-size:2vw;
 
 
 a{
-padding:2vw;
-border: 3vw solid rgb(0,255,0);
+display:block;
+
+border: 1vw solid rgb(0,255,0);
 text-align:center;
 text-decoration:none;
 font-size:3vw;
 margin:1cm;
+box-shadow:0vw 0vw 2vw black;
 }
 
 a:hover{
