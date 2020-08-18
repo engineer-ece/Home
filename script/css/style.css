@@ -4,6 +4,19 @@ font-family:arial;
 font-size: 1.5vw;
 
 }
+.socialmedia{
+ text-align:center;
+}
+.jun{
+  box-shadow:0px 0px 5px black;
+  border:2px ridge green;
+  margin-top:8px;
+  margin-left:20px;
+}
+.jun:hover{
+  border:2px groove purple;
+  box-shadow:0px 0px 5px black;
+}
 
 
 
