@@ -2,6 +2,8 @@
 <html>
 <head>
  <link rel="Stylesheet" href="script/css/style.css">
+  <link rel = "stylesheet" href = "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
+  <script src = "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 </head>
 <body>
 <div class="main">
@@ -35,8 +37,36 @@
 <li><a href="https://engineer-ece.github.io/Chemistry/" target="_blank">Chemistry</a></li>
 <li><a href="https://engineer-ece.github.io/ECE/" target="_blank">Electronics and Communication Engineering</a></li>
 </div>
+ 
+<div style="margin-left:45%">
+ <strong>BOT Universe</strong><br>Name : Gobal Krishnan V<br>Date of Birth : 18-06-1995<br>Address :<br><address> No:937,L.I.G 2,1st Main Road,Mathur M.M.D.A,<br>Chennai = 600 068.</address><br>whatsapp = +91 8148729703'
+</div>
+ <div id = "map" style = "width:100%; height:50%"></div>
+      <script>
+         // Creating map options
+         var mapOptions = {
+            center: [13.17195,80.24615],
+            zoom: 14
+         }
+         // Creating a map object
+         var map = new L.map('map', mapOptions);
+         
+         // Creating a Layer object
+         var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+         
+         // Adding layer to the map
+         map.addLayer(layer);
+         
 
 
+         // Creating a marker
+         var marker = L.marker([13.17195,80.24615]);
+         marker.bindPopup('<strong>BOT Universe</strong><br>Name : Gobal Krishnan V<br>Date of Birth : 18-06-1995<br>Address :<br><address> No:937,L.I.G 2,1st Main Road,Mathur M.M.D.A,<br>Chennai = 600 068.</address><br>whatsapp = +91 8148729703').openPopup();
+         // Adding marker to the map
+         marker.addTo(map);
+      </script>
+   
+ 
 
 
 </body>
