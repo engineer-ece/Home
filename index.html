@@ -7,10 +7,84 @@
  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
   crossorigin=""/>
+ 
+ <style>
+    html, body, #viewDiv {
+      padding: 0;
+      margin: 0;
+      height: 100%;
+      width: 100%;
+    }
+  </style>
+ 
+  <link rel="stylesheet" href="https://js.arcgis.com/4.18/esri/themes/light/main.css">
+  <script src="https://js.arcgis.com/4.18/"></script>
+  
 <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
   integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
   crossorigin=""></script>
  
+ 
+  <script>  
+    require([
+        "esri/Map", 
+        "esri/views/SceneView",
+        "esri/Graphic",
+        "esri/layers/GraphicsLayer"
+    ], function(Map, SceneView ,Graphic, GraphicsLayer) {
+
+      var map = new Map({
+        basemap: "topo-vector",
+        ground: "world-elevation"
+      });
+
+      var view = new SceneView({
+        container: "viewDiv",
+        map: map,
+        camera: {
+          position: {
+            //13.17195,80.24615
+            x: 80.24615,
+            y:13.17195,
+            z: 40000*1000 // meters
+          },
+          tilt: 0
+        }
+      });
+      
+       var graphicsLayer = new GraphicsLayer();
+  map.add(graphicsLayer);  
+  
+  // Create a point
+   var point = {
+   type: "point",
+     //x: 80.24615,
+           // y:13.17195,
+     //13.172015586275814, 80.24610605628894
+   longitude: 80.24610605628894,
+   latitude: 13.172015586275814
+  };
+
+  var simpleMarkerSymbol = {
+   type: "simple-marker",
+   color: [226, 119, 40], 
+    width: 10,// orange
+   outline: {
+     color: [255, 255, 255], // white
+     width: 6
+   }
+  };
+
+  var pointGraphic = new Graphic({
+   geometry: point,
+   symbol: simpleMarkerSymbol
+  });
+
+  graphicsLayer.add(pointGraphic);
+
+      
+    });
+  </script>
  
 </head>
 <body>
@@ -129,6 +203,9 @@
          // Adding marker to the map
          marker.addTo(map);
       </script>
+ 
+        <div id="viewDiv"></div>
+
 
 </body>
 </html>
