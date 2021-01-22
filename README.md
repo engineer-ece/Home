@@ -19,7 +19,8 @@
 
 ## HackerRank Certificates
 
-<br>[Java Basic](https://www.hackerrank.com/certificates/bc473d265a35)
+<br>[Python(Basic)](https://www.hackerrank.com/certificates/1b6e91e662c7)
+<br>[Java(Basic)](https://www.hackerrank.com/certificates/bc473d265a35)
 
 ## Programming Hero 
 
