@@ -31,3 +31,6 @@
 
 <br> [Programming Fundamental](https://imgur.com/Tlwssw1)
 
+![](https://github.com/engineer-ece/Home/blob/master/images/logo/qr_leg_.png)
+
+
