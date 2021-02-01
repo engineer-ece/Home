@@ -8,7 +8,7 @@
 # UPI Id: dr.bot.engineer@okaxis
 
 
-![](https://github.com/engineer-ece/Home/blob/master/images/logo/qr_leg_.png)
+![](https://github.com/engineer-ece/Home/blob/master/images/logo/lingam.png)
 
 ![](https://github.com/engineer-ece/Home/blob/master/images/logo/gk_qr.jpeg)
 
