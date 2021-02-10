@@ -1,7 +1,6 @@
-''' 
-  I only talk to my family members.
-  I not talk to anyone , even some relative,neighbours
-'''
+* I only talk to my family members.
+* I not talk to anyone , even some relative,neighbours
+
 
 # Learn for good life
 
