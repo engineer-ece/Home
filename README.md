@@ -1,6 +1,6 @@
 * I only talk to my family members.
 * I not talk to anyone , even some relative,neighbours
-
+* I not disture other, so you should not disture me.
 
 # Learn for good life
 
