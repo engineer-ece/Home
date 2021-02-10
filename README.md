@@ -1,4 +1,10 @@
+# I only talk to my family members.
+# I not talk to anyone , even some relative,neighbours
+
+
 # Learn for good life
+
+
 <br>ஓம் பேஷஜயா வித்மஹே
 <br>வருண தேஹா தீமஹி
 <br>தன்னோ சதபிஷக் ப்ரசோதயாத்
