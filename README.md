@@ -20,6 +20,8 @@
 
 
 # Certificates
+## Udemy Certificates
+<br> [Computer Graphics with Modern OpenGL and C++](https://www.udemy.com/certificate/UC-59008625-ea7a-49b7-b59c-a4289530d262/)
 
 ## FreeCodeCamp Certificates
 
