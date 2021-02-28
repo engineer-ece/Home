@@ -1,14 +1,15 @@
 **My mother make a promise to me. If I go to meet the girl i love. I will die. So. She as to come to see me. I so worry about this promise. God please help me.**
-* I only talk to my family members.
-* I not talk to anyone , even some relative,neighbours
-* I not disture other, so you should not disture me.
+
 
 # Learn for good life
-
 
 <br>ஓம் பேஷஜயா வித்மஹே
 <br>வருண தேஹா தீமஹி
 <br>தன்னோ சதபிஷக் ப்ரசோதயாத்
+
+* I only talk to my family members.
+* I not talk to anyone , even some relative,neighbours
+* I not disture other, so you should not disture me.
 
 # google pay
 
