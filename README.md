@@ -1,5 +1,5 @@
 **My mother make a promise to me. If I go to meet the girl i love. I will die. So. She as to come to see me. I so worry about this promise. God please help me.**
-
+**I not even tell my love to the girl who I love**
 
 # Learn for good life
 
