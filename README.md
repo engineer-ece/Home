@@ -1,3 +1,4 @@
+My mother make a promise to me. If I go to meet the girl i love. I will die. So. She as to come to see me. I so worry about this promise. God help me.
 * I only talk to my family members.
 * I not talk to anyone , even some relative,neighbours
 * I not disture other, so you should not disture me.
