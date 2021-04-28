@@ -1,12 +1,4 @@
-#include <windows.h>
 
-int main()
-{
-    HDC hdc = GetDC(GetConsoleWindow());
-    for (int x = 0; x < 256; ++x)
-        for (int y = 0; y < 256; ++y)
-            SetPixel(hdc, x, y, RGB(127, x, y));
-}
 **My mother make a promise to me. If I go to meet the girl i love. I will die. So. She as to come to see me. I so worry about this promise. God please help me.**
 **I not even tell my love to the girl who I love. The girl name is Bharathi => Her birth day is Feb 11. She talk to me at day at one time.**
 
@@ -52,4 +44,16 @@ int main()
 
 ![](https://github.com/engineer-ece/Home/blob/master/images/logo/qr_leg_.png)
 
+
+```c++
+#include <windows.h>
+
+int main()
+{
+    HDC hdc = GetDC(GetConsoleWindow());
+    for (int x = 0; x < 256; ++x)
+        for (int y = 0; y < 256; ++y)
+            SetPixel(hdc, x, y, RGB(127, x, y));
+}
+```
 
