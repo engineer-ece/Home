@@ -56,4 +56,5 @@ int main()
             SetPixel(hdc, x, y, RGB(127, x, y));
 }
 ```
+https://github.com/jurczewski/Chladni-Plates-Simulator
 
