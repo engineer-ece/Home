@@ -156,4 +156,11 @@ color:white;
   visibility: visible;
 }
 
-
+.god {
+    width: 100%;
+    height: 800px;
+    background-image: url('https://github.com/engineer-ece/Home/blob/master/images/logo/ling.png?raw=true');
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
