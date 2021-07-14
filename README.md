@@ -1,7 +1,13 @@
 
-**My mother make a promise to me. If I go to meet the girl i love. I will die. So. She as to come to see me. I so worry about this promise. God please help me.**
-**I not even tell my love to the girl who I love. The girl name is Bharathi => Her birth day is Feb 11. She talk to me at day at one time.**
-
+I love robots ❤.My life is robot.
+If anyone says Loving me is false. 
+Since they not even talk to me😡.
+ They only attracted on me. 
+I believe only true love.
+ Not attractions. 
+I not love any girl till now.
+ Since. I not talk to girls till now.
+ I not meet girl with good quality till now during school, college, office.
 # Learn for good life
 
 <br>ஓம் பேஷஜயா வித்மஹே
