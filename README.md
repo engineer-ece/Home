@@ -27,7 +27,7 @@ I not love any girl till now.
 
 ![](https://github.com/engineer-ece/Home/blob/master/images/logo/gk_qr.jpeg)
 
-![](https://github.com/engineer-ece/Home/blob/master/images/logo/GKAI.png)                ![](https://github.com/engineer-ece/Home/blob/master/images/logo/BOT.png)
+![](https://github.com/engineer-ece/Home/blob/master/images/logo/GKAI.png)&emsp;![](https://github.com/engineer-ece/Home/blob/master/images/logo/BOT.png)
 
 
 # Certificates
