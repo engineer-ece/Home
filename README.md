@@ -85,3 +85,10 @@ https://github.com/jurczewski/Chladni-Plates-Simulator
 17. பாம்பாட்டி -> கார்திகை -> மிருகஸிருடம் -> 123 வருடம் , 14 நாட்கள்
 18. நந்தி,  சிவ்வாக்கியர்
 
+# Email
+
+1. dr.bot.engineer@gmail.com
+2. gobalkrishnan.developer@gmail.com
+3. gobalkrishnan.engineer@gmail.com
+4. electronic.bot.engineer@gmail.com
+5. talk.bot.engineer@gmail.com
