@@ -92,3 +92,14 @@ https://github.com/jurczewski/Chladni-Plates-Simulator
 3. gobalkrishnan.engineer@gmail.com
 4. electronic.bot.engineer@gmail.com
 5. talk.bot.engineer@gmail.com
+
+# Be truthful
+
+be truthful.
+1. some acting, some person acting like someone. spoiling someone life.
+2. acting like loving a girl or boy. if not good habit.
+3. if anyone love you more. don't think them as cheap. since someone , using love for benefit, eg. changing fish from pond, lakes, river or sea ,like given food for fish and killing the fish , to catch it. to eat.
+4. don't think , when going infront of love one like suddenly see in bus,train or road. etc. he/she comes to talk with you. If you want to talk to some one. just whatsapp. enough.
+5. Anyone in the world, if they like talk to you, otherwise not.
+6. If sometime, the love one not able to predict you. due to some reason. so don't think he/she not love. since human body sensor sometime make error's.
+
