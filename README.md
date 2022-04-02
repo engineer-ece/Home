@@ -103,3 +103,5 @@ be truthful.
 5. Anyone in the world, if they like talk to you, otherwise not.
 6. If sometime, the love one not able to predict you. due to some reason. so don't think he/she not love. since human body sensor sometime make error's.
 
+
+How would maintain the world with Happy, Love, if population of different organisms increase, if robot population increase then human. Did robot treat human equality, Since human of different kind, to rule the world, doing war. How to secure human mind, thought, soul to good path, to protect human race and other organisms ?
